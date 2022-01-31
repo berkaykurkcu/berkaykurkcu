@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there , I am Berkay👋
 
 <!--
+I am a Turkish developer experimenting with Flutter and Dart.
 **berkaykurkcu/berkaykurkcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
