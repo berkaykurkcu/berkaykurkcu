@@ -10,9 +10,9 @@ Feel free to ask any questions if you have any questions about Flutter and Dart.
 
 📫 Learn more about me & contact me:
 
-*  [berkaykurkcu.com](berkaykurkcu.com)
+*  [berkaykurkcu.com](https://berkaykurkcu.com)
 
-*  [about.me/berkaykurkcu](about.me/berkaykurkcu)
+*  [about.me/berkaykurkcu](https://about.me/berkaykurkcu)
 
 
 ---
