@@ -9,7 +9,10 @@ Feel free to ask any questions if you have any questions about Flutter and Dart.
 🔭 I am currently working as a Lead Flutter Developer at [Minerva Protechnology](https://www.minervaprotechnology.com/) developing SuperAcademy, a mobile/web education application with various features.
 
 📫 Learn more about me & contact me:
+
 berkaykurkcu.com
+
 about.me/berkaykurkcu
+
 
 ---
